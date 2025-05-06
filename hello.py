@@ -1,5 +1,6 @@
 def main():
 
-    print("Hello World")
+    print("Hello There!")
+    print("General Kenobi! You are a bold one.")
 
 main()
